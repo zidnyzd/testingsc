@@ -1,5 +1,5 @@
 # command install 
-<code><pre>apt install -y bzip2 gzip coreutils screen curl unzip && wget https://vcs.vpzx.my.id/anime.sh && chmod +x anime.sh && sed -i -e 's/\r$//' anime.sh && screen -S anime ./anime.sh</code></pre>
+<code><pre>apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/zidnyzd/testingsc/main/i.sh && chmod +x i.sh && screen -S ins ./i.sh</code></pre>
 
 
 # FIX BACKUP 
